@@ -1,0 +1,22 @@
+.left_side{
+    width: 10rem;
+    background-color: rgb(127, 219, 255);
+}
+
+.side_bar_contents{
+    padding: 5px;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.side_bar_contents >p{
+    padding: 5px;
+}
+
+
+
+
+
+
+
+

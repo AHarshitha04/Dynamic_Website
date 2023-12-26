@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+
+  .Uploaded_Files{
+     /* display: flex; */
+     position: relative;
+     bottom: 290px;
+     left: 210px;
+  }

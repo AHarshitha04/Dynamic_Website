@@ -1,0 +1,14 @@
+.admin_page{
+    /* display: flex; */
+}
+
+.main_page_content{
+    display: flex;
+    /* justify-content: center; */
+}
+
+.upload_page{
+    margin-left: 20rem;
+    padding-bottom: 50px;
+    align-items: center;
+}
