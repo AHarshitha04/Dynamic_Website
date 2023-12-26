@@ -1,0 +1,16 @@
+.admin_header{
+    border-bottom: 2px solid rgb(127, 219, 255);
+}
+
+.header_contents{
+    display: flex;
+    /* padding: 5px; */
+    /* text-align: center; */
+    /* justify-content: center; */
+}
+
+.header_text{
+    
+    /* text-align: center; */
+    /* justify-content: center; */
+}
